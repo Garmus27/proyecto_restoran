@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public enum TipoPromocion {
+    HAPPYHOUR,
+    PROMOCION1
 }

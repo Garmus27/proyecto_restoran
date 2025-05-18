@@ -1,3 +1,4 @@
-public class TipoDeEnvio {
-    
+public enum TipoDeEnvio {
+    TAKEAWAY,
+    DELIVERY
 }
